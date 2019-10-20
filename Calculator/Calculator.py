@@ -1,3 +1,8 @@
+##
+## Created By Wesley Ruede
+##
+
+
 class Calculator:
     def __init__(self):
         self.x = 0
